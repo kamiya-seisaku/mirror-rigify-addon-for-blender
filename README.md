@@ -3,7 +3,7 @@
 This Blender addon allows you to easily copy bone transformations from one Rigify armature to another.
 
 ## How to Use
-1. Install the addon in Blender via `Edit > Preferences > Add-ons > Install`.
+1. Download "mirror_rigify.py". Install this single-file addon in Blender via `Edit > Preferences > Add-ons > Install`.
 2. Navigate to the 3D Viewport > Sidebar > Tools tab to find the Mirror Rigify panel.
 3. Select your source and target Rigify armatures using the provided eyedroppers.
 4. Click the "Mirror Rigify" button to copy the bone transformations.
